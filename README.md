@@ -1,4 +1,4 @@
-## Serious Sam Classic
+## SeriousSamClassic-DirectX9
 
 This is the source code for Serious Engine v.1.10, including the following projects:
 
